@@ -1,2 +1,6 @@
 # hello-world
-Saying hello to the world.
+
+Hiyas!
+
+Just getting more organized
+
